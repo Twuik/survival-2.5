@@ -13,7 +13,7 @@
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
 # au		  Australia (Sydney)
-# eu		  Europe (Frankfurt)
+# eu		  Europe (Frankfurst)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
 # sa		  South America (São Paulo)
